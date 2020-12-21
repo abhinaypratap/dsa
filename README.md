@@ -2,6 +2,8 @@
 
 ### Keynote
 
+- Master Theorem
+- Divide & Conquer Algorithm
 - Sorting
 	- Merge Sort
 	- Heap Sort
@@ -34,4 +36,9 @@
 	- Theta Notation
 	- Big-O Notation
 	- Omega Notation
+
+---
+
+**Master Theorem**: Master theorem is used in calculating the time complexity of recurrence relations (divide and conquer algorithm), which are of the form:
+>T(n) = aT(n/b) * f(n)
 
