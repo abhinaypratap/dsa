@@ -38,6 +38,9 @@
 	- `Peek`: Get the value of the top element without removing it
 
 ---
+
+**Queue Data Structure**
+---
 **Algorithm**: An algorithm is a set of well-defined instructions in sequence to solve a problem.
 - Time, Memory & Scalability
 - The efficiency of an algorithm depends on the amount of time, storage and other resources required to execute the algorithm. The efficiency is measured with the help of asymptotic notations.
