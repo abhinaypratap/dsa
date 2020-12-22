@@ -28,6 +28,16 @@
 
 ---
 
+**Stack Data Structure**: 
+- In Stack *Last In First Out(LIFO)* works.
+- A Stack is an object or an *abstract data structure(ADT)* that allows the following operations:
+	- `Push`: Add an element to the top of a Stack
+	- `Pop`: Remove an element from the top of a Stack
+	- `IsEmpty`: Check if the Stack is empty
+	- `IsFull`: Check if the Stack is full
+	- `Peek`: Get the value of the top element without removing it
+
+---
 **Algorithm**: An algorithm is a set of well-defined instructions in sequence to solve a problem.
 - Time, Memory & Scalability
 - The efficiency of an algorithm depends on the amount of time, storage and other resources required to execute the algorithm. The efficiency is measured with the help of asymptotic notations.
@@ -44,4 +54,4 @@
 
 ---
 
-**Merge Sort Algorithm**:
+**Merge Sort Algorithm**: Merge Sort is a kind of Divide and Conquer algorithm.
