@@ -39,7 +39,8 @@
 
 ---
 
-**Queue Data Structure**
+**Queue Data Structure**:
+
 ---
 **Algorithm**: An algorithm is a set of well-defined instructions in sequence to solve a problem.
 - Time, Memory & Scalability
