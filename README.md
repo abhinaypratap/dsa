@@ -36,10 +36,24 @@
 	- `IsEmpty`: Check if the Stack is empty
 	- `IsFull`: Check if the Stack is full
 	- `Peek`: Get the value of the top element without removing it
+- **Working of Stack**:
 
 ---
 
 **Queue Data Structure**:
+- *First In First Out(FIFO)*: the item that goes in first is the item that comes out first too.
+- A Queue is an object or an *abstract data Structure(ADT)* that allows the following operations:
+	- `Enqueue`: Add an element to the end of the queue
+	- `Dequeue`: Remove an element from the end of the queue
+	- `IsEmpty`: Check if the queue is empty
+	- `IsFull`: Check if the queue is full
+	- `Peek`: Get the value of the front of the queue without removing it.
+- **Working of Queue**:
+- Types of Queue:
+	1. Simple Queue
+	2. Circular Queue
+	3. Priority Queue
+	4. Double Ended Queue (Deque)
 
 ---
 **Algorithm**: An algorithm is a set of well-defined instructions in sequence to solve a problem.
