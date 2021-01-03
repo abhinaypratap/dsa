@@ -9,8 +9,25 @@
 	- Heap Sort
 	- Quick Sort
 	- Sorting in linear time
+	- Bubble Sort
+	- Selection Sort
+	- Insertion Sort
+	- Quicksort
+	- Counting Sort
+	- Radix Sort
+	- Bucket Sort
+	- Heap Sort
+	- Shell Sort
+- Search
+	- Linear Search
+	- Binary Search
 - Asymptotic Notation
-- Priority Queue
+- Stack
+- Queue
+	- Simple Queue
+	- Circular Queue
+	- Priority Queue
+	- Double Ended Queue (Deque)
 - Order Statistics
 - Data Structures
 	- Heap
@@ -73,3 +90,6 @@
 ---
 
 **Merge Sort Algorithm**: Merge Sort is a kind of Divide and Conquer algorithm.
+
+---
+
